@@ -7,10 +7,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/andrei_emc)
 
 ![Andrei Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreiMartinsCoelho&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiMartinsCoelho&hide_progress=true)](https://github.com/AndreiMartinsCoelho)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiMartinsCoelho&hide_progress=true&layout=compact&theme=radical)](https://github.com/AndreiMartinsCoelho)
-(https://github.com/anuraghazra/github-readme-stats)
+[![Andrei Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiMartinsCoelho&hide_progress=true&layout=compact&theme=radical)](https://github.com/AndreiMartinsCoelho)
 
 ## Tecnologias que uso no meu dia 🫰
 
