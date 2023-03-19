@@ -1,5 +1,5 @@
 ### - Olá! Eu sou o Andrei Martins e sou estudante do curso de informática da Escola Técnica Estadual Monteiro Lobato(CIMOL)🫰
-### - Estudando Java, Node.JS, JavaScript, CSS e HTML.
+### - Estudando Java, Node.JS, JavaScript, CSS e HTML.⚡
 ### - Sempre buscando evoluir!🤓
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AndreiElia444)
@@ -18,5 +18,3 @@
     <img align="center" alt=Java src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img align="center" alt=Node.JS src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div>
-
-    O melhor guerreiro não é aquele que sempre ganha, mas o que mantém o seu orgulho mesmo na derrota.
