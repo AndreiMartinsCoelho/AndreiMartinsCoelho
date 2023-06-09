@@ -6,10 +6,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_andrei_coelho?igshid=ZDdkNTZiNTM=4)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/andrei_emc)
 
-<div style="display: flex" align="center">
 ![Andrei Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreiMartinsCoelho&show_icons=true&theme=radical&layout=demo)
 ![Andrei Martins Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiMartinsCoelho&layout=compact&show_icons=true&theme=radical)
-</div>
     
 ## Tecnologias que uso e estudo no meu dia a dia
 <div style="display: flex" align="center"><br/>
