@@ -1,7 +1,7 @@
 ### - Olá! Eu sou o Andrei Martins e sou estudante do curso de informática da Escola Técnica Estadual Monteiro Lobato(CIMOL)
 ### - Estudando Node.JS, JavaScript, Java, Vue.JS, CSS e HTML.⚡
 
-### - Algumas Redes Sociais que uso bastante.
+### - Algumas Redes Sociais e plataforma que uso bastante.
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AndreiElia444)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andrei_coelho_?igshid=MzNlNGNkZWQ4Mg==)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/andrei_emc)
