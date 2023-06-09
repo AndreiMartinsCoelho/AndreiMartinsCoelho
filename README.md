@@ -10,7 +10,7 @@
 ![Andrei Martins Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiMartinsCoelho&layout=compact&show_icons=true&theme=radical)
 
 ## Tecnologias que uso e estudo no meu dia a dia
-<div style="display: inline block, align-items=center, justify-content: center"><br/>
+<div style="display: flex, align-items=center, justify-content: center"><br/>
     <img align="center" margin="30px" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />    
     <img align="center" margin="30px" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />   
     <img align="center" margin="30px" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />    
