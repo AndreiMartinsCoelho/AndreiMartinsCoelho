@@ -8,8 +8,8 @@
 ### Minhas estatísticas no GitHub
 
 
-    ![Andrei Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreiMartinsCoelho&show_icons=true&theme=radical&layout=demo)
-    ![Andrei Martins Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiMartinsCoelho&layout=compact&show_icons=true&theme=radical)
+![Andrei Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreiMartinsCoelho&show_icons=true&theme=radical&layout=demo)
+![Andrei Martins Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiMartinsCoelho&layout=compact&show_icons=true&theme=radical)
 
 ### Tecnologias que uso e estudo no meu dia a dia
 <div style="display:flex">
