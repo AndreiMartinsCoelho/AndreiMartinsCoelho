@@ -12,12 +12,13 @@
 
 ### - Tecnologias que uso e estudo no meu dia a dia
 <div style="display:flex">
-    <img align="center" width="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />    
-    <img align="center" width="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />   
-    <img align="center" width="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />    
-    <img align="center" width="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />   
-    <img align="center" width="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img align="center" width="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />    
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />   
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />    
+    <img align="center" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />   
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 ![snake gif](https://github.com/vinikrummenauer/vinikrummenauer/blob/output/github-contribution-grid-snake.svg)
