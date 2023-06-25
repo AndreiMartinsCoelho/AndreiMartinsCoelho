@@ -7,7 +7,7 @@
 
 ### Minhas estatísticas no GitHub
 
-<div style="display:flex" align="center" width="60" height="60">
+<div style="display:flex">
     ![Andrei Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreiMartinsCoelho&show_icons=true&theme=radical&layout=demo)
     ![Andrei Martins Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiMartinsCoelho&layout=compact&show_icons=true&theme=radical)
 </div>
