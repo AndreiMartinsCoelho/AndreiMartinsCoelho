@@ -3,9 +3,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  <a href="https://twitter.com/AndreiElia444" target="_blank" rel="noopener noreferrer">Twitter</a>
+  <a href="https://twitter.com/AndreiElia444" target="_blank" rel="noopener noreferrer"></a>
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  <a href="https://instagram.com/andrei_coelho_?igshid=MzNlNGNkZWQ4Mg==" target="_blank" rel="noopener noreferrer">Instagram</a>
+  <a href="https://instagram.com/andrei_coelho_?igshid=MzNlNGNkZWQ4Mg==" target="_blank" rel="noopener noreferrer"></a>
 </p>
 
 ### Minhas estatísticas no GitHub
