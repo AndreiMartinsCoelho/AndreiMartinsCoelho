@@ -1,5 +1,5 @@
-### Olá! Eu sou o Andrei Martins e sou estudante do curso de informática da Escola Técnica Estadual Monteiro Lobato(CIMOL)
-### Estudando Node.JS, JavaScript, Java, Python, Vue.JS, CSS e HTML.⚡
+<h1 align="center">Olá! Eu sou o Andrei Martins 👋</h1>
+<h3 align="center">Estudante de informática na Escola Técnica Estadual Monteiro Lobato (CIMOL)</h3>
 
 ### Algumas Redes Sociais e Plataforma que uso bastante.
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AndreiElia444)
