@@ -2,9 +2,10 @@
 ### Estudando Node.JS, JavaScript, Java, Python, Vue.JS, CSS e HTML.⚡
 
 ### Algumas Redes Sociais e Plataforma que uso bastante.
+<div>
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AndreiElia444)                  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andrei_coelho_?igshid=MzNlNGNkZWQ4Mg==)
-
+</div>
 ### Minhas estatísticas no GitHub
 
 ![Andrei Martins Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiMartinsCoelho&layout=donut&show_icons=true&theme=radical)
