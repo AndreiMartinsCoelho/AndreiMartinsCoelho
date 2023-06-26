@@ -1,9 +1,12 @@
 <h1 align="center">Olá! Eu sou o Andrei Martins 👋</h1>
 <h3 align="center">Estudante de informática na Escola Técnica Estadual Monteiro Lobato (CIMOL)</h3>
 
-### Algumas Redes Sociais e Plataforma que uso bastante.
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AndreiElia444)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andrei_coelho_?igshid=MzNlNGNkZWQ4Mg==)
+<p align="center">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  <a href="https://twitter.com/AndreiElia444" target="_blank" rel="noopener noreferrer">Twitter</a>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  <a href="https://instagram.com/andrei_coelho_?igshid=MzNlNGNkZWQ4Mg==" target="_blank" rel="noopener noreferrer">Instagram</a>
+</p>
 
 ### Minhas estatísticas no GitHub
 
