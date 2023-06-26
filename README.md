@@ -9,7 +9,7 @@
 
 ![Andrei Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreiMartinsCoelho&show_icons=true&theme=radical&layout=demo)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiMartinsCoelho&layout=donut&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Andrei Martins Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiMartinsCoelho&layout=compact&show_icons=true&theme=radical)
+/*![Andrei Martins Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiMartinsCoelho&layout=compact&show_icons=true&theme=radical)*/
 
 ### Tecnologias que uso e estudo no meu dia a dia
 <div style="display:flex">
