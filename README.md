@@ -1,12 +1,9 @@
-<h1 align="center">Olá! Eu sou o Andrei Martins 👋</h1>
-<h3 align="center">Estudante de informática na Escola Técnica Estadual Monteiro Lobato (CIMOL)</h3>
+### Olá! Eu sou o Andrei Martins e sou estudante do curso de informática da Escola Técnica Estadual Monteiro Lobato(CIMOL)
+### Estudando Node.JS, JavaScript, Java, Python, Vue.JS, CSS e HTML.⚡
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  <a href="https://twitter.com/AndreiElia444" target="_blank" rel="noopener noreferrer"></a>
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  <a href="https://instagram.com/andrei_coelho_?igshid=MzNlNGNkZWQ4Mg==" target="_blank" rel="noopener noreferrer"></a>
-</p>
+### Algumas Redes Sociais e Plataforma que uso bastante.
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AndreiElia444)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andrei_coelho_?igshid=MzNlNGNkZWQ4Mg==)
 
 ### Minhas estatísticas no GitHub
 
