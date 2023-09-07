@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Andrei Martins, sou estudante do curso de informática da Escola Técnica Estadual Monteiro Lobato(CIMOL)
-### Estudando Node.JS, JavaScript, Java, Python, Express.JS.⚡
+### Estudando Node.JS, JavaScript, Java, Express.JS.⚡
 
 ### Algumas Redes Sociais que uso bastante.
 
@@ -15,7 +15,6 @@
     <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />    
     <img align="center" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />   
     <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 ![snake gif](https://github.com/vinikrummenauer/vinikrummenauer/blob/output/github-contribution-grid-snake.svg)
