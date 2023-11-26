@@ -9,8 +9,8 @@
 
 # 🧩 Status
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AndreiMartinsCoelho&show_icons=true&theme=radical" style="margin: 10px"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreiMartinsCoelho&theme=radical" style="margin: 10px"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AndreiMartinsCoelho&show_icons=true&theme=radical" style="margin: 10px"/>
+    <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=AndreiMartinsCoelho&theme=radical" style="margin: 10px"/>
 </div>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiMartinsCoelho&layout=compact&show_icons=true&theme=radical" style="margin: 10px"/>
