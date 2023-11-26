@@ -1,20 +1,24 @@
-### Olá! Eu sou o Andrei Martins, sou estudante do curso de informática da Escola Técnica Estadual Monteiro Lobato(CIMOL)
-### Estudando Node.JS, JavaScript, Java, Express.JS.⚡
+## 👋 Olá, meu nome é Andrei Martins Coelho!
+## Sou um estudante de Desenvolvimento Web Full Stack
+## 🦄  Atualmente estou focado em melhorar cada vez mais as minhas skills
+![RYU](./ryu.gif)
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-### Algumas Redes Sociais que uso bastante.
+## 📫 Como me encontrar: 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/4ndrei_martins)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andrei_coelho_?igshid=MzNlNGNkZWQ4Mg==)
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AndreiElia444)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andrei_coelho_?igshid=MzNlNGNkZWQ4Mg==)
-
-### Minhas estatísticas no GitHub
-![Andrei's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreiMartinsCoelho&show_icons=true&theme=radical)
-![Andrei Martins Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiMartinsCoelho&layout=compact&show_icons=true&theme=radical)
-### Tecnologias que uso e estudo no meu dia a dia
-<div style="display:flex">
-    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />    
-    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />   
-    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />    
-    <img align="center" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />   
-    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+# 🧩 Status
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=AndreiMartinsCoelho&show_icons=true&theme=radical" style="margin: 10px"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreiMartinsCoelho&theme=radical" style="margin: 10px"/>
+</div>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiMartinsCoelho&layout=compact&show_icons=true&theme=radical" style="margin: 10px"/>
 </div>
 
-![snake gif](https://github.com/vinikrummenauer/vinikrummenauer/blob/output/github-contribution-grid-snake.svg)
+# 🏆 Troféus
+![Andrei's GitHub trophies](https://github-profile-trophy.vercel.app/?username=AndreiMartinsCoelho&theme=radical&margin-w=15&margin-h=15&align=center)
+
+# 🚀 Minhas Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,ruby,mongodb,ps,git,mysql,react,figma,nodejs,express,java&theme=dark&perline=7)](https://skillicons.dev)
+
