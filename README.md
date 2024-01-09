@@ -16,9 +16,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiMartinsCoelho&layout=compact&show_icons=true&theme=radical" style="margin: 10px"/>
 </div>
 
-# 🏆 Troféus
-![Andrei's GitHub trophies](https://github-profile-trophy.vercel.app/?username=AndreiMartinsCoelho&theme=radical&margin-w=15&margin-h=15&align=center)
-
 # 🚀 Minhas Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,ruby,mongodb,ps,git,mysql,react,figma,nodejs,express,java&theme=dark&perline=7)](https://skillicons.dev)
 
